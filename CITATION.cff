@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use METALTIP in your work, please cite both the software and the associated paper."
+type: software
+title: "METALTIP"
+version: "1.1.0"
+license: "GPL-3.0-or-later"
+
+authors:
+  - family-names: "Ishida"
+    given-names: "Nobuyuki"
+    affiliation: "National Institute for Materials Science (NIMS)"
+
+repository-code: "https://github.com/nobuyuki-ishida-nims/metaltip"
+
+abstract: >-
+  METALTIP is a Python code for electrostatic simulations of a metallic
+  tip-sample system in generalized prolate spheroidal coordinates. It is
+  intended for modeling Kelvin probe force microscopy and force-spectroscopy
+  measurements under experimentally relevant AFM/KPFM conditions.
+
+keywords:
+  - Kelvin probe force microscopy
+  - KPFM
+  - electrostatic simulation
+  - metallic tip
+  - finite difference method
+  - prolate spheroidal coordinates
+  - Python
+
+preferred-citation:
+  type: article
+  title: "An Open-Source Framework for Quantitative Electrostatic Simulations in Kelvin Probe Force Microscopy"
+  authors:
+    - family-names: "Ishida"
+      given-names: "Nobuyuki"
+      affiliation: "National Institute for Materials Science (NIMS)"
+  year: 2026
+  journal: "Journal of Applied Physics"
+  status: "accepted"
