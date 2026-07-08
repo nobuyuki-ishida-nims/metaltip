@@ -190,9 +190,7 @@ If you use METALTIP in your work, please cite both the software and the associat
 
 ### Associated paper
 
-N. Ishida, "An Open-Source Framework for Quantitative Electrostatic Simulations in Kelvin Probe Force Microscopy", Journal of Applied Physics, in press.
-
-The final bibliographic information, including DOI, volume, and page numbers, will be updated after publication.
+N. Ishida, "An Open-Source Framework for Quantitative Electrostatic Simulations in Kelvin Probe Force Microscopy", J. Appl. Phys. 140, 024301 (2026). https://doi.org/10.1063/5.0336722
 
 ### Software
 
